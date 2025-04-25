@@ -12,7 +12,7 @@ body {
   color: whitesmoke;
 
   --bg-color: rgb(25, 25, 25, 0.85);
-  --theme-color: rgb(28, 100, 184, 0.8);
+  --theme-color: #fd7200;
 
   transition: opacity 200ms linear;
 }
